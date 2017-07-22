@@ -259,8 +259,8 @@
 							<div class="fh5co-right-position">
 						-->
 						<div class="fh5co-center-position">
-							<h2 class="animate-box">Plans for Everyone</h2>
-							<h3 class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there.</h3>
+							<h2 class="animate-box">价格</h2>
+							<h3 class="animate-box">产品价格</h3>
 							
 						</div>
 					</div>
@@ -268,7 +268,7 @@
 			</div>
 			<div class="fh5co-learn-more animate-box">
 				<a href="#" class="scroll-btn">
-					<span class="text">See our plans and get started today</span>
+					<span class="text">套餐选择</span>
 					<span class="arrow"><i class="icon-chevron-down"></i></span>
 				</a>
 			</div>
@@ -280,9 +280,9 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-6 animate-box">
 					<div class="price-box">
-						<h2 class="pricing-plan">Starter</h2>
-						<div class="price"><sup class="currency">$</sup>7<small>/mo</small></div>
-						<p>Basic customer support for small business</p>
+						<h2 class="pricing-plan">月套餐</h2>
+						<div class="price"><sup class="currency">￥</sup>100<small>/月</small></div>
+						<p>月套餐</p>
 						<hr>
 						<ul class="pricing-info">
 							<li>10 projects</li>
@@ -290,14 +290,14 @@
 							<li>20 Emails</li>
 							<li>100 Images</li>
 						</ul>
-						<a href="#" class="btn btn-default btn-sm">Get started</a>
+						<a href="#" class="btn btn-default btn-sm">立即订购</a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 animate-box">
 					<div class="price-box">
-						<h2 class="pricing-plan">Regular</h2>
-						<div class="price"><sup class="currency">$</sup>19<small>/mo</small></div>
-						<p>Basic customer support for small business</p>
+						<h2 class="pricing-plan">季度套餐</h2>
+						<div class="price"><sup class="currency">￥</sup>260<small>/3月</small></div>
+						<p>季度套餐</p>
 						<hr>
 						<ul class="pricing-info">
 							<li>15 projects</li>
@@ -305,16 +305,16 @@
 							<li>40 Emails</li>
 							<li>200 Images</li>
 						</ul>
-						<a href="#" class="btn btn-default btn-sm">Get started</a>
+						<a href="#" class="btn btn-default btn-sm">立即订购</a>
 					</div>
 				</div>
 				<div class="clearfix visible-sm-block"></div>
 				<div class="col-md-3 col-sm-6 animate-box">
 					<div class="price-box popular">
-						<div class="popular-text">Best value</div>
+						<div class="popular-text">半年套餐</div>
 						<h2 class="pricing-plan">Plus</h2>
-						<div class="price"><sup class="currency">$</sup>79<small>/mo</small></div>
-						<p>Basic customer support for small business</p>
+						<div class="price"><sup class="currency">￥</sup>480<small>/半年</small></div>
+						<p>半年套餐</p>
 						<hr>
 						<ul class="pricing-info">
 							<li>Unlimitted projects</li>
@@ -322,14 +322,14 @@
 							<li>100 Emails</li>
 							<li>700 Images</li>
 						</ul>
-						<a href="#" class="btn btn-primary btn-sm">Get started</a>
+						<a href="#" class="btn btn-primary btn-sm">立即订购</a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 animate-box">
 					<div class="price-box">
-						<h2 class="pricing-plan">Enterprise</h2>
-						<div class="price"><sup class="currency">$</sup>125<small>/mo</small></div>
-						<p>Basic customer support for small business</p>
+						<h2 class="pricing-plan">年套餐</h2>
+						<div class="price"><sup class="currency">￥</sup>750<small>/年</small></div>
+						<p>年套餐</p>
 						<hr>
 						<ul class="pricing-info">
 							<li>Unlimitted projects</li>
@@ -337,7 +337,7 @@
 							<li>Unlimitted Emails</li>
 							<li>Unlimitted Images</li>
 						</ul>
-						<a href="#" class="btn btn-default btn-sm">Get started</a>
+						<a href="#" class="btn btn-default btn-sm">立即订购</a>
 					</div>
 				</div>
 				
@@ -352,7 +352,7 @@
 				<div class="row row-bottom-padded-lg">
 					<div class="col-md-6 col-md-offset-3 text-center">
 						<div class="fh5co-label animate-box">FAQ</div>
-						<h2 class="fh5co-lead animate-box">Frequently Ask Questions</h2>
+						<h2 class="fh5co-lead animate-box">常见问题</h2>
 					</div>
 				</div>
 				<div class="row">

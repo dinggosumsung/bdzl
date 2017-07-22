@@ -259,15 +259,15 @@
 							<div class="fh5co-right-position">
 						-->
 						<div class="fh5co-center-position">
-							<h2 class="animate-box">Tour Our Products</h2>
-							<h3 class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there.</h3>
+							<h2 class="animate-box">如何使用本产品</h2>
+							<h3 class="animate-box">支持PC、手机、微信等终端，随时随地使用</h3>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="fh5co-learn-more animate-box">
 				<a href="#" class="scroll-btn">
-					<span class="text">See our products</span>
+					<span class="text">产品简介</span>
 					<span class="arrow"><i class="icon-chevron-down"></i></span>
 				</a>
 			</div>
@@ -279,8 +279,8 @@
 				<div class="row text-center row-bottom-padded-md">
 					<div class="col-md-8 col-md-offset-2">
 						<figure class="fh5co-devices animate-box"><img src="images/img_devices.png" alt="Free HTML5 Bootstrap Template" class="img-responsive"></figure>
-						<h2 class="fh5co-lead animate-box">Perfect Display in All Devices</h2>
-						<p class="fh5co-sub-lead animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows.</p>
+						<h2 class="fh5co-lead animate-box">所有终端均可使用</h2>
+						<p class="fh5co-sub-lead animate-box">支持PC、手机、微信等终端，随时随地使用</p>
 					</div>
 				</div>
 				<div class="row">
@@ -289,8 +289,8 @@
 							<div class="fh5co-icon animate-box">
 								<i class="icon-power"></i>
 							</div>
-							<h3 class="animate-box">Best For Startup</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
+							<h3 class="animate-box">安装简单</h3>
+							<p class="animate-box">无需安装，一个账号随处使用</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-12">
@@ -298,8 +298,8 @@
 							<div class="fh5co-icon animate-box">
 								<i class="icon-flag2"></i>
 							</div>
-							<h3 class="animate-box">Easy To Use</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
+							<h3 class="animate-box">使用简单</h3>
+							<p class="animate-box">操作简单，几次点击即可完成</p>
 						</div>
 					</div>
 					<div class="clearfix visible-sm-block"></div>
@@ -308,87 +308,17 @@
 							<div class="fh5co-icon animate-box">
 								<i class="icon-anchor"></i>
 							</div>
-							<h3 class="animate-box">Robust In Mind</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
+							<h3 class="animate-box">不断更新</h3>
+							<p class="animate-box">系统随时升级，永远使用最新的功能</p>
 						</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-xs-12">
-						<div class="fh5co-feature">
-							<div class="fh5co-icon animate-box">
-								<i class="icon-paragraph"></i>
-							</div>
-							<h3 class="animate-box">Beautiful Typography</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
-						</div>
-					</div>
-					<div class="clearfix visible-sm-block"></div>
-					<div class="col-md-4 col-sm-6 col-xs-12">
-						<div class="fh5co-feature">
-							<div class="fh5co-icon animate-box">
-								<i class="icon-umbrella"></i>
-							</div>
-							<h3 class="animate-box">Eco Friendly</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 col-xs-12">
-						<div class="fh5co-feature">
-							<div class="fh5co-icon animate-box">
-								<i class="icon-toggle"></i>
-							</div>
-							<h3 class="animate-box">Wide and Boxed</h3>
-							<p class="animate-box">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right .</p>
-						</div>
-					</div>
 					<div class="clearfix visible-sm-block"></div>
 				</div>
 			</div>
 		</section>	
 
 		<!-- END #fh5co-features -->
-
-
-		<section id="fh5co-features-2">
-			<div class="container">
-				<div class="col-md-6 col-md-push-6">
-					<figure class="fh5co-feature-image animate-box">
-						<img src="images/macbook.png" alt="Free HTML5 Bootstrap Template by FREEHTML5.co">
-					</figure>
-				</div>
-				<div class="col-md-6 col-md-pull-6">
-					<span class="fh5co-label animate-box">See Features</span>
-					<h2 class="fh5co-lead animate-box">Superb Features</h2>
-					<div class="fh5co-feature">
-						<div class="fh5co-icon animate-box"><i class="icon-check2"></i></div>
-						<div class="fh5co-text animate-box">
-							<h3>Beautiful Typography</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-					<div class="fh5co-feature">
-						<div class="fh5co-icon animate-box"><i class="icon-check2"></i></div>
-						<div class="fh5co-text animate-box">
-							<h3>Eco Friendly</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-					<div class="fh5co-feature">
-						<div class="fh5co-icon animate-box"><i class="icon-check2"></i></div>
-						<div class="fh5co-text animate-box">
-							<h3>Wide and Boxed</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-
-					<div class="fh5co-btn-action animate-box">
-						<a href="#" class="btn btn-primary btn-cta">More Features</a>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		<!-- END #fh5co-features-2 -->
 
 
 		<section id="fh5co-features-3">
@@ -399,8 +329,8 @@
 					</figure>
 				</div>
 				<div class="col-md-6">
-					<span class="fh5co-label animate-box">More Features</span>
-					<h2 class="fh5co-lead animate-box">Let's take your business to the next level</h2>
+					<span class="fh5co-label animate-box">更多特性</span>
+					<h2 class="fh5co-lead animate-box">进入新的保险时代</h2>
 					<div class="fh5co-feature animate-box">
 						<div class="fh5co-icon"><i class="icon-paragraph"></i></div>
 						<div class="fh5co-text">
@@ -433,47 +363,6 @@
 		<!-- END #fh5co-features-3 -->
 
 
-		<section id="fh5co-features-4">
-			<div class="container">
-				<div class="col-md-6 col-md-push-6">
-					<figure class="fh5co-feature-image animate-box">
-						<img src="images/macbook.png" alt="Free HTML5 Bootstrap Template by FREEHTML5.co">
-					</figure>
-				</div>
-				<div class="col-md-6 col-md-pull-6">
-					<span class="fh5co-label animate-box">See Features</span>
-					<h2 class="fh5co-lead animate-box">Superb Features</h2>
-					<div class="fh5co-feature animate-box">
-						<div class="fh5co-icon"><i class="icon-check2"></i></div>
-						<div class="fh5co-text">
-							<h3>Beautiful Typography</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-					<div class="fh5co-feature animate-box">
-						<div class="fh5co-icon"><i class="icon-check2"></i></div>
-						<div class="fh5co-text">
-							<h3>Eco Friendly</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-					<div class="fh5co-feature animate-box">
-						<div class="fh5co-icon"><i class="icon-check2"></i></div>
-						<div class="fh5co-text">
-							<h3>Wide and Boxed</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</div>
-
-					<div class="fh5co-btn-action animate-box">
-						<a href="#" class="btn btn-primary btn-cta">More Features</a>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		<!-- END #fh5co-features-4 -->
-		
 		<section id="fh5co-testimonials">
 			<div class="container">
 				<div class="row row-bottom-padded-sm">
